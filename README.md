@@ -1,6 +1,20 @@
-And so it begins.
+# Hi there! 👋
+I am a Product Manager from Germany.
 
-<!---
-1erkandogan/1erkandogan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🛠️ Technologies & Tools
+- JavaScript
+- Python
+- React
+- Node.js
+
+![Your Stats](https://github-readme-stats.vercel.app/api?username=1erkandogan&show_icons=true&theme=radical)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat&logo=javascript)
+![Python](https://img.shields.io/badge/Python-black?style=flat&logo=python)
+
+## 🌐 Connect with me:
+[LinkedIn](https://www.linkedin.com/in/1erkandogan) | [Twitter](https://twitter.com/1erkandogan)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=1erkandogan)
+
+![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=11132598305)
